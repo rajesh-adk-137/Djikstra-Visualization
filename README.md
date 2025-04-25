@@ -89,8 +89,8 @@ An interactive, real-time visualization of Dijkstra’s shortest-path algorithm,
 5. **Build** the solution (Ctrl + Shift + B).  
 6. **Run** the executable (F5).
 
-SETTING UP SFML CAN BE FRUSTRATING FOR FIRST TIME IN VISUAL STUDIO, IT IS RECOMMENDED TO FOLLOW TUTORIALS FROM YOUTUBE FOR PROPER SETUP GUIDE.
----
+<setting up sfml for first time can be frustrating in visual studio, it is recommended to follow tutorials from youtube for proper setup guide>
+
 
 ### Usage & Controls
 
