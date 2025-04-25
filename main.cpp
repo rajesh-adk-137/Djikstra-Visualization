@@ -91,7 +91,7 @@ RectangleShape preview_border(sf::Vector2f(20 * cell_size, h_cnt* cell_size));
 RectangleShape animation_block(sf::Vector2f(cell_size - 6, cell_size - 6));
 
 RectangleShape weight2(Vector2f(cell_size - 0.5, cell_size - 1));
-RectangleShape No_Path(Vector2f(50, 200));
+RectangleShape No_Path(Vector2f(500, 200));
 
 sf::CircleShape circle(12);
 
